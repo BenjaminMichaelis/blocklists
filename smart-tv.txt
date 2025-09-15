@@ -325,6 +325,7 @@ leiniao.com
 tcllauncher.com
 my7v.com
 huan.tv
+cedock.com
 # Consider if you are using Baidu services or not to blacklist it here.
 # www.baidu.com
 
